@@ -1,0 +1,298 @@
+body{
+
+	background-color: black;
+}
+.MainBody{
+	height:800px;
+	background-image: url("PK-en-20240226-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+	background-position: fill;
+
+	
+	
+	
+
+
+
+	
+
+
+}
+.beechKiLine{
+	height:10px;
+	background-color: grey;
+
+}
+.TV{
+	
+
+	height: 550px;
+	background-color: black;
+	display: flex;
+	
+
+
+
+}
+.TV2{
+	height: 400px;
+	background-color: black;
+}
+.questions{
+	height: 700px;
+	background-color: black;
+}
+.footer{
+	height: 400px;
+	background-color: black;
+}
+.yourBody{
+
+	margin-left: -10%;
+	margin-right: -5%;
+	margin-top: -10%;
+	margin-bottom: -10%;
+	display: flex;
+	flex-direction: column;
+}
+.theGradient{
+	height: 800px;
+	background-image: linear-gradient(rgb(0, 0, 0, 1.0),rgb(0, 0, 0, 0.5),rgb(0, 0, 0, 1.0));
+	display: flex;
+	flex-direction: column;
+
+	
+	
+	
+}
+.NetflixLogo{
+	height: 50px;
+  width: 100%;
+  
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  padding: 30px;
+
+
+	
+	
+
+}
+.TheImage{
+	width: 50%;
+	
+
+
+}
+.TheButton{
+	width: 50%;
+
+	
+}
+.TheButton button{
+	background-color: red;
+	height: 2rem;
+	width: 80px;
+	border: none;
+	position: absolute;
+	right: 100px;
+	border-radius: 10%;
+	font-family: sans-serif;
+	color: white;
+	 
+}
+.TheButton button:hover{
+	background-color: rgb(187, 0, 0, 1.0);
+	cursor: pointer;
+}
+
+.default-ltr-cache-1d568uk{
+
+    width: 9.25rem;
+    height: 2.5rem;
+    color: rgb(229, 9, 20);
+    fill: currentColor;
+    display: block;
+
+}
+.MainContent{
+	
+  	
+  	height: 450px;
+  	width: 100%;
+  	
+  	position: absolute;
+  	left: 0;
+  	right: 0;
+  	top: 100px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	margin-top: 30px;
+
+
+
+
+}
+.MainContent h1 {
+	color: white;
+	font-family: sans-serif;
+	font-size: 3rem;
+	font-weight: 900;
+
+}
+.MainContent h2 {
+	color: white;
+	font-family: sans-serif;
+	font-size: 1.5rem;
+	font-weight: 400;
+}
+.MainContent p{
+	color: white;
+	font-family: sans-serif;
+	font-size: 1.25rem;
+	font-weight: 400;
+}
+.inputClass{
+	
+	display: flex;
+
+}
+.inputClass input{
+	width: 70%;
+	margin-right: 20px;
+	height: 100%;
+	background-color: rgb(0, 0, 0, 0.5);
+	font-family: sans-serif;
+	color: white;
+	border: 1px solid white;
+	border-radius: 3%;
+	
+	color: white;
+	font-family: sans-serif;
+	font-size: 1rem;
+	padding: 5px;
+
+}
+.inputClass{
+	width: 50%;
+	height: 10%;
+}
+.inputClass button{
+	width: 30%;
+	height: 130%;
+	background-color: red;
+	border: none;
+	border-radius: 5%;
+	color: white;
+	font-family: sans-serif;
+	font-size: 1.5rem;
+	cursor: pointer;
+
+
+}
+.TV h1 , .TV2 h1 , .questions h1{
+	color: white;
+	font-family: sans-serif;
+	font-size: 3rem;
+	font-weight: 900;
+	margin-left: 150px;
+	margin-top: 200px;
+}
+.TV p , .TV2 p{
+	color: white;
+	font-family: sans-serif;
+	font-size: 1.5rem;
+	margin-left: 150px;
+	font-weight: 400;
+}
+.videoimage img{
+	height: 400px;
+	
+
+}
+.videoimage{
+	margin-top: 50px;
+	margin-left: 50px;
+	z-index: 2;
+}
+.videoClass video{
+	width: 400px;
+	
+	
+
+	
+}
+.videoClass{
+	position: absolute;
+	right: 100px;
+	object-fit: contain;
+	display: inline-block;
+	margin-top: 80px;
+	overflow: hidden;
+	z-index: -1;
+
+
+
+
+
+
+
+}
+.strangerThings {
+	
+	margin-left: 150px;
+	margin-top: 50px;
+}
+.strangerThings img{
+	height: 400px;
+}
+.Download{
+	margin-top: -50px;
+	margin-left: -100px;
+	width: 700px;
+}
+.smallBox{
+	width: 300px;
+	height: 80px;
+	border: 3px solid grey;
+	position: absolute;
+	z-index: 2;
+	margin-top:-130px ;
+	left: 150px;
+	background-color: black;
+	border-radius: 5%;
+	display: flex;
+	padding: 10px;
+
+
+
+}
+.smallBox img{
+	height: 70px;
+
+}
+.contentD{
+	margin-left: -140px;
+}
+.TV2{
+	display: inline-block;
+	margin-left: 100px;
+}
+.questions{
+	margin-top: -50px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+}
+.questions div{
+	border: 5px solid white;
+	margin-bottom: 10px;
+	width: 1000px;
+	height: 70px;
+}
